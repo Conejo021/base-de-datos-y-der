@@ -1,1 +1,3 @@
 # base-de-datos-y-der
+esta base fue realizada en dbeaver con sus correspondientes requisitos, pero lo que a mi respeta no le encuentro sentido haber armado una tabla donde se ponga las consultas que son propias de la base de datos, dichas consultas deberian haberse realizados atravez de los scripts del SQL y haber mandado de ultima las respuestas que estas arrojaran,
+NO se si el ejercicio esta bien planteado tengo mis dudas al respecto.Sin mas gracias por su atencion y disculpen que les entregue con 2 horas de atrasos el ejercicio, fue porque tuve una falla tecnica en mi pc y me llevo tiempo para solucionarlo y entregar el mismo.
